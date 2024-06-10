@@ -1,5 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaSchema)
-
-![stats](https://github-readme-stats.vercel.app/api?username=DeltaSchema)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaSchema&layout=compact&show_icons=true&theme=onedark">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=DeltaSchema&theme=onedark&show_icons=ture">
+</p>
